@@ -1,6 +1,6 @@
 #Adapted/Expanded on code from Bee Guan Teo "How to Predict Stock Prices Change with Random Forest in Python"/Machine Learning for Finance in Python DataCamp course
 #Daniel Szabo
-#Project for FIN:9160 - Quantitative Finance and Deep Learning - University of Iowa
+#Independent Project for FIN:9160 - Quantitative Finance and Deep Learning - University of Iowa
 
 # Data Retrieval and Manipulation
 import yfinance as yf
